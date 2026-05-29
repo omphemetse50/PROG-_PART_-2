@@ -228,7 +228,7 @@ namespace PROG_PART_2
         {
             chats.Items.Clear();
             question.Clear();
-
+            
             //display a clear message from the chatbot
             error_method(
                 "ChatBot",
